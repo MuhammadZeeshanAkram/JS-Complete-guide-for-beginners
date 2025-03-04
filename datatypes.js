@@ -18,7 +18,7 @@
 
 // BigInt (For very large numbers)
 
-//  Non-Primitive Data Types(Complex Values):
+//  Non-Primitive Data Types/Refrence(Complex Values):
 //Object (Key-Value Pair)
 //let person = {
 //     name: "Zeeshan",
@@ -50,7 +50,18 @@
 // console.log(typeof undefined);//undefined
 // console.log(typeof null);//object
 
+// 📌 JavaScript is a Dynamically Typed Language ✅
+// 🔹 What Does This Mean?
+// In JavaScript, you don't need to declare the type of a variable. The type is decided at runtime (when the code runs).
 
+// Example:
+// js
+// Copy
+// Edit
+// let x = 10;        // x is a number
+// x = "Hello";       // Now x is a string
+// x = true;          // Now x is a boolean
+// ✅ JavaScript automatically changes the type based on the value you assign.
 
 
 
